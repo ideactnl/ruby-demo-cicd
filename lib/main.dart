@@ -12,4 +12,4 @@ class RubyApp extends StatelessWidget {
   }
 }
 
-// Version: 1.0.8 - Demo
+// Version: 1.0.10 - Login validation improvements
